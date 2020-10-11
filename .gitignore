@@ -1,0 +1,6 @@
+output
+reports
+tempdata
+.ipynb_checkpoints
+*.xlsx
+__pycache__
